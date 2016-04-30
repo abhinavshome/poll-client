@@ -1,0 +1,21 @@
+{
+    "qnId": 1,
+    "qn": "Who has been the best indian batsmen till date?",
+    "options": [{
+        "id": 1,
+        "label": "Sachin Tendulkar",
+        "votePercent": 30
+    }, {
+        "id": 2,
+        "label": "Virat Kohli",
+        "votePercent": 28
+    }, {
+        "id": 3,
+        "label": "Saurav Ganguly",
+        "votePercent": 12
+    }, {
+        "id": 4,
+        "label": "VIrender Sehwag",
+        "votePercent": 30
+    }]
+}
